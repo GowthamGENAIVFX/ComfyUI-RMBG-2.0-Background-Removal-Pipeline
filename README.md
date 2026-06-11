@@ -1,5 +1,3 @@
-# README.md
-
 # ComfyUI RMBG-2.0 Background Removal Pipeline
 
 A production-oriented ComfyUI workflow designed for automatic background removal using RMBG-2.0.
