@@ -25,13 +25,15 @@ This workflow automates the process using RMBG-2.0.
 
 ## Architecture Diagram
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](images/Architecture_diagram.png)
 
 ---
 
 ## Workflow Graph
 
-![Workflow](images/workflow.png)
+![Workflow](images/BG_removal_Workflow_01.png)
+![Workflow](images/BG_removal_Workflow__bottle_02.png)
+![Workflow](images/BG_removal_Workflow_seq_01.png)
 
 ---
 
@@ -39,19 +41,29 @@ This workflow automates the process using RMBG-2.0.
 
 ### Input Product
 
-![Input](images/input-product.png)
+![Input](images/Input_01.png)
+![Input](images/Input_02.png)
+![Input](images/Input_03.png)
+![Input](images/Input_04.png)
+![Input](images/Input_05.png)
+![Input](images/Input_06.png)
+![Input](images/Input_game_items.png)
 
-### Alpha Mask
 
-![Mask](images/alpha-mask.png)
-
-### Background Removed
-
-![Removed](images/background-removed.png)
 
 ### Final Transparent PNG
 
-![Final](images/final-output.png)
+![Final](images/output_01.png)
+![Final](images/output_02.png)
+![Final](images/output_03.png)
+![Final](images/output_04.png)
+![Final](images/output_05.png)
+![Final](images/output_06.png)
+![Final](images/output_07.png)
+![Final](images/Bottle_full.png)
+![Final](images/Bottle_cropped.png)
+![Final](images/crown.png)
+![Final](images/crown_cropped.png)
 
 ---
 
