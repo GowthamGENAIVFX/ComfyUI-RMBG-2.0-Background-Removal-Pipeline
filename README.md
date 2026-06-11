@@ -1,0 +1,1 @@
+# ComfyUI-RMBG-2.0-Background-Removal-Pipeline
