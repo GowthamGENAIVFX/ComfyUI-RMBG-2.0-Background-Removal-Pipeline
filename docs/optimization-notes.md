@@ -1,5 +1,3 @@
-# docs/optimization-notes.md
-
 # Workflow Optimization Notes
 
 ---
