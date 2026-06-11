@@ -1,5 +1,3 @@
-# docs/node-explanations.md
-
 # Node Explanations
 
 ---
